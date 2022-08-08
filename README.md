@@ -1,4 +1,4 @@
-# <img align="center" alt="Daniel-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"> Navigation Drawler
+# <img align="center" alt="Daniel-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"> Player Video
 
 
 
@@ -19,25 +19,20 @@
 <div align="center">
 
 
-<img src="https://user-images.githubusercontent.com/87238842/183475278-d5605a52-0bb5-4fb3-88af-aef3e714e160.gif" width="140">
-<img src="https://user-images.githubusercontent.com/87238842/183467415-326e771c-991a-4a37-86c2-e18d7e595135.png" width="150">
-<img src="https://user-images.githubusercontent.com/87238842/183467424-cef628bd-7027-4b9a-aab4-536ed710cacb.png" width="150">
-<img src="https://user-images.githubusercontent.com/87238842/183467420-7ebc9a89-05c5-4d22-9de5-e22413a849bd.png" width="150">
-<img src="https://user-images.githubusercontent.com/87238842/183467423-671c2ade-06bf-43bc-b364-d13310753b0f.png" width="150">
- 
+<img src="https://user-images.githubusercontent.com/87238842/183503865-f85b01e2-32fa-4e36-82c4-e0d27ad193e0.gif" height="150">
+<img src="https://user-images.githubusercontent.com/87238842/183500743-734bca17-e7fd-4ba9-9604-66761b6102df.png" height="150">
+<img src="https://user-images.githubusercontent.com/87238842/183500737-b493820b-6020-4d27-973d-d9fc7e41ed8b.png" height="150">
 
- 
-
-
-
- 
 </div>
+
+
+
 
 ---
 
 ## 📖 Sobre
 
-A proposta do projeto é a criação de um app de consultoria de qualidade, utilizando o navigation drawler.
+A proposta do projeto é a criação de um app de player de video com som e rotação da orientação da tela.
 Este projeto foi desenvolvido durante minha jornada de estudos, com intuito de aprimorar os conhecimentos em desenvolvimento de android nativo.
 
 ---
@@ -49,12 +44,16 @@ O projeto foi desenvolvido utilizando as seguintes Ferramentas:
 - Android Studio
 - Java
 - XML
-- Fragments
-- Bundle
-- Navegação entre Fragments
-- Floating Bottom
+- Activities
+- Raw
+- Navegação entre Activities
 - Layouts
+- Video Player
+- Music Player
+
+
+----
 
 
 
-Desenvolvido por Lucas Alves da Silva Calderon.
+Desenvolvido por Lucas Calderon.
